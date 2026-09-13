@@ -273,4 +273,4 @@ This repository serves as the official landing page for Atomfall. The software i
 **Get the most recent version of Atomfall today!**
 
 ---
-**Last updated:** 2026-09-13 15:53:33 UTC
+**Last updated:** 2026-09-13 18:38:43 UTC
